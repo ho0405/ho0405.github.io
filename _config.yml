@@ -111,30 +111,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryan Back"
-  avatar           : "/assets/images/bio-photo.png"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name: "Ryan Back"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "I am an **amazing** person."
+  location: "Somewhere"
+  email: "ho0405@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ho0405@gmail.com"
+      url: "mailto:ho0405@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://ryanback.vercel.app/"
+      url: "https://ryanback.vercel.app/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ryanback45"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/ryanback45"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ho0405"
+      url: "https://github.com/ho0405"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/ryanback45"
+      url: "https://instagram.com/ryanback45"
+
 
 # Site Footer
 footer:
